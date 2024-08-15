@@ -1,0 +1,7 @@
+package package1.data;
+
+public abstract class Animal {
+    public String name;
+
+    public abstract void run();
+}
